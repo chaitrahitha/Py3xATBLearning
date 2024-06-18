@@ -3,6 +3,7 @@
 #         print(i, end="\n")
 
 
+
 # *args -> List
 a = ["pramod", "amit", "lucky"]
 for i in a:
