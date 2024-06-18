@@ -28,7 +28,6 @@ result = max(2, 3)
 # say_hello_arg("pramod")
 # say_hello_arg("amit")
 
-
 def say_hello_arg_default(name="Pramod"):  # No Return Type and with Default Argument
     # Write the Code
     print("Hello", name)
