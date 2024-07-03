@@ -1,0 +1,697 @@
+Index: Ex_19062024/__init__.py
+===================================================================
+diff --git a/Ex_19062024/__init__.py b/Ex_19062024/__init__.py
+deleted file mode 100644
+--- a/Ex_19062024/__init__.py	(revision 76c441dc93266707347a85e90e53065f23b189b3)
++++ /dev/null	(revision 76c441dc93266707347a85e90e53065f23b189b3)
+@@ -1,1 +0,0 @@
+-
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"44511976-e9d0-4670-b14f-ad125f1add91\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_03062024/Lab001.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab002.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab003.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab004.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab005.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab006.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab007.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab008.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab009.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab010.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab011.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab012.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Ex_05062024/Lab013.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"chaitrahitha\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/chaitrahitha/Py3xATBLearning.git\",\r\n    \"accountId\": \"98d98c0d-68f9-4b7c-8b16-5d5e2fee6392\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 4\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2hUnzNpykLBlZpCoyiyuqTVAh1r\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.Lab001.executor\": \"Run\",\r\n    \"Python.Lab002.executor\": \"Run\",\r\n    \"Python.Lab003.executor\": \"Run\",\r\n    \"Python.Lab004.executor\": \"Run\",\r\n    \"Python.Lab005.executor\": \"Run\",\r\n    \"Python.Lab006.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"44511976-e9d0-4670-b14f-ad125f1add91\" name=\"Changes\" comment=\"\" />\r\n      <created>1717657786115</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1717657786115</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 76c441dc93266707347a85e90e53065f23b189b3)
++++ b/.idea/workspace.xml	(date 1719384991236)
+@@ -4,22 +4,18 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="44511976-e9d0-4670-b14f-ad125f1add91" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab001.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab002.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab003.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab004.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab005.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab006.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab007.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab008.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab009.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab010.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab011.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab012.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab013.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++    <list default="true" id="44511976-e9d0-4670-b14f-ad125f1add91" name="Changes" comment="Assignment">
++      <change afterPath="$PROJECT_DIR$/Ex_June/Ex_14062024/Lab049.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Ex_June/Ex_14062024/Lab050.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Ex_June/Ex_14062024/Lab051.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Ex_June/Ex_14062024/Lab052.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Ex_June/Ex_14062024/Lab053.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Ex_June/Ex_14062024/Lab054.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Ex_June/Ex_14062024/Lab055.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Ex_June/Ex_14062024/Lab056.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Ex_June/Ex_14062024/Lab057.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Ex_19062024/__init__.py" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -36,21 +32,21 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "chaitrahitha"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;chaitrahitha&quot;
+   }
+-}]]></component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/chaitrahitha/Py3xATBLearning.git",
+-    "accountId": "98d98c0d-68f9-4b7c-8b16-5d5e2fee6392"
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/chaitrahitha/Py3xATBLearning.git&quot;,
++    &quot;accountId&quot;: &quot;98d98c0d-68f9-4b7c-8b16-5d5e2fee6392&quot;
+   }
+-}]]></component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 4
+-}]]></component>
++}</component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 4
++}</component>
+   <component name="ProjectId" id="2hUnzNpykLBlZpCoyiyuqTVAh1r" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="2" id="Add" />
+@@ -59,18 +55,168 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.Lab001.executor": "Run",
+-    "Python.Lab002.executor": "Run",
+-    "Python.Lab003.executor": "Run",
+-    "Python.Lab004.executor": "Run",
+-    "Python.Lab005.executor": "Run",
+-    "Python.Lab006.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master"
+-  }
+-}]]></component>
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.Anagrams.executor&quot;: &quot;Debug&quot;,
++    &quot;Python.Default_Argument.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Keyword_Argument.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab048.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab071.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab073.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lab094.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Palidrome of String.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Right Angle Triangle.executor&quot;: &quot;Debug&quot;,
++    &quot;Python.String Reverse.executor&quot;: &quot;Debug&quot;,
++    &quot;Python.Task_02.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Task_1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Task_3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Task_4.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Types_of_Arguments.executor&quot;: &quot;Run&quot;,
++    &quot;Python.VLA_Arbitrary_Positional_Argument.executor&quot;: &quot;Run&quot;,
++    &quot;Python.VLA_Arbitrary_keyword_Arument.executor&quot;: &quot;Run&quot;,
++    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
++    &quot;Python.vowels and consonants.executor&quot;: &quot;Debug&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
++  }
++}</component>
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\Dell\PycharmProjects\Py3xATBLearning" />
++      <recent name="C:\Users\Dell\PycharmProjects\Py3xATBLearning\Ex_June" />
++      <recent name="C:\Users\Dell\PycharmProjects\Py3xATBLearning\Task" />
++    </key>
++  </component>
++  <component name="RunManager" selected="Python.Anagrams">
++    <configuration name="Anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="Py3xATBLearning" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task/Task_21062024" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_21062024/Anagrams.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="Palidrome of String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="Py3xATBLearning" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task/Task_21062024" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_21062024/Palidrome of String.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="Right Angle Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="Py3xATBLearning" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task/Task_21062024" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_21062024/Right Angle Triangle.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="String Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="Py3xATBLearning" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task/Task_21062024" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_21062024/String Reverse.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="vowels and consonants" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="Py3xATBLearning" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task/Task_21062024" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_21062024/vowels and consonants.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Python.Anagrams" />
++        <item itemvalue="Python.vowels and consonants" />
++        <item itemvalue="Python.Palidrome of String" />
++        <item itemvalue="Python.String Reverse" />
++        <item itemvalue="Python.Right Angle Triangle" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -87,6 +233,427 @@
+       <option name="presentableId" value="Default" />
+       <updated>1717657786115</updated>
+     </task>
++    <task id="LOCAL-00011" summary="Factorial">
++      <option name="closed" value="true" />
++      <created>1718210403591</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1718210403591</updated>
++    </task>
++    <task id="LOCAL-00012" summary="Fibonacci Series">
++      <option name="closed" value="true" />
++      <created>1718210435117</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1718210435117</updated>
++    </task>
++    <task id="LOCAL-00013" summary="Loops(for, if-else, if-elif-else, while)">
++      <option name="closed" value="true" />
++      <created>1718211391569</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1718211391569</updated>
++    </task>
++    <task id="LOCAL-00014" summary="Literal and Operators">
++      <option name="closed" value="true" />
++      <created>1718211557892</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1718211557892</updated>
++    </task>
++    <task id="LOCAL-00015" summary="Raw string and format string">
++      <option name="closed" value="true" />
++      <created>1718211775420</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1718211775420</updated>
++    </task>
++    <task id="LOCAL-00016" summary="format string">
++      <option name="closed" value="true" />
++      <created>1718211842082</created>
++      <option name="number" value="00016" />
++      <option name="presentableId" value="LOCAL-00016" />
++      <option name="project" value="LOCAL" />
++      <updated>1718211842082</updated>
++    </task>
++    <task id="LOCAL-00017" summary="string">
++      <option name="closed" value="true" />
++      <created>1718211899853</created>
++      <option name="number" value="00017" />
++      <option name="presentableId" value="LOCAL-00017" />
++      <option name="project" value="LOCAL" />
++      <updated>1718211899853</updated>
++    </task>
++    <task id="LOCAL-00018" summary="None Type">
++      <option name="closed" value="true" />
++      <created>1718211934847</created>
++      <option name="number" value="00018" />
++      <option name="presentableId" value="LOCAL-00018" />
++      <option name="project" value="LOCAL" />
++      <updated>1718211934847</updated>
++    </task>
++    <task id="LOCAL-00019" summary="List">
++      <option name="closed" value="true" />
++      <created>1718211964513</created>
++      <option name="number" value="00019" />
++      <option name="presentableId" value="LOCAL-00019" />
++      <option name="project" value="LOCAL" />
++      <updated>1718211964513</updated>
++    </task>
++    <task id="LOCAL-00020" summary="Escape Sequence">
++      <option name="closed" value="true" />
++      <created>1718211990873</created>
++      <option name="number" value="00020" />
++      <option name="presentableId" value="LOCAL-00020" />
++      <option name="project" value="LOCAL" />
++      <updated>1718211990873</updated>
++    </task>
++    <task id="LOCAL-00021" summary="Functions">
++      <option name="closed" value="true" />
++      <created>1718726482943</created>
++      <option name="number" value="00021" />
++      <option name="presentableId" value="LOCAL-00021" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726482943</updated>
++    </task>
++    <task id="LOCAL-00022" summary="List">
++      <option name="closed" value="true" />
++      <created>1718726545874</created>
++      <option name="number" value="00022" />
++      <option name="presentableId" value="LOCAL-00022" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726545874</updated>
++    </task>
++    <task id="LOCAL-00023" summary="Functions">
++      <option name="closed" value="true" />
++      <created>1718726582436</created>
++      <option name="number" value="00023" />
++      <option name="presentableId" value="LOCAL-00023" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726582436</updated>
++    </task>
++    <task id="LOCAL-00024" summary="Dict">
++      <option name="closed" value="true" />
++      <created>1718726617755</created>
++      <option name="number" value="00024" />
++      <option name="presentableId" value="LOCAL-00024" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726617755</updated>
++    </task>
++    <task id="LOCAL-00025" summary="VLA Functions">
++      <option name="closed" value="true" />
++      <created>1718726657425</created>
++      <option name="number" value="00025" />
++      <option name="presentableId" value="LOCAL-00025" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726657425</updated>
++    </task>
++    <task id="LOCAL-00026" summary="Leap year">
++      <option name="closed" value="true" />
++      <created>1718726701855</created>
++      <option name="number" value="00026" />
++      <option name="presentableId" value="LOCAL-00026" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726701855</updated>
++    </task>
++    <task id="LOCAL-00027" summary="Triangle classifier">
++      <option name="closed" value="true" />
++      <created>1718726724975</created>
++      <option name="number" value="00027" />
++      <option name="presentableId" value="LOCAL-00027" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726724975</updated>
++    </task>
++    <task id="LOCAL-00028" summary="Fibonacci">
++      <option name="closed" value="true" />
++      <created>1718726742219</created>
++      <option name="number" value="00028" />
++      <option name="presentableId" value="LOCAL-00028" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726742219</updated>
++    </task>
++    <task id="LOCAL-00029" summary="For Loop">
++      <option name="closed" value="true" />
++      <created>1718726792005</created>
++      <option name="number" value="00029" />
++      <option name="presentableId" value="LOCAL-00029" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726792005</updated>
++    </task>
++    <task id="LOCAL-00030" summary="Match case">
++      <option name="closed" value="true" />
++      <created>1718726895964</created>
++      <option name="number" value="00030" />
++      <option name="presentableId" value="LOCAL-00030" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726895964</updated>
++    </task>
++    <task id="LOCAL-00031" summary="Function">
++      <option name="closed" value="true" />
++      <created>1718726961884</created>
++      <option name="number" value="00031" />
++      <option name="presentableId" value="LOCAL-00031" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726961884</updated>
++    </task>
++    <task id="LOCAL-00032" summary="Function">
++      <option name="closed" value="true" />
++      <created>1718726972627</created>
++      <option name="number" value="00032" />
++      <option name="presentableId" value="LOCAL-00032" />
++      <option name="project" value="LOCAL" />
++      <updated>1718726972627</updated>
++    </task>
++    <task id="LOCAL-00033" summary="Assignment">
++      <option name="closed" value="true" />
++      <created>1718734907434</created>
++      <option name="number" value="00033" />
++      <option name="presentableId" value="LOCAL-00033" />
++      <option name="project" value="LOCAL" />
++      <updated>1718734907434</updated>
++    </task>
++    <task id="LOCAL-00034" summary="List">
++      <option name="closed" value="true" />
++      <created>1718735020121</created>
++      <option name="number" value="00034" />
++      <option name="presentableId" value="LOCAL-00034" />
++      <option name="project" value="LOCAL" />
++      <updated>1718735020121</updated>
++    </task>
++    <task id="LOCAL-00035" summary="Function">
++      <option name="closed" value="true" />
++      <created>1718735053623</created>
++      <option name="number" value="00035" />
++      <option name="presentableId" value="LOCAL-00035" />
++      <option name="project" value="LOCAL" />
++      <updated>1718735053623</updated>
++    </task>
++    <task id="LOCAL-00036" summary="Dict">
++      <option name="closed" value="true" />
++      <created>1718735104988</created>
++      <option name="number" value="00036" />
++      <option name="presentableId" value="LOCAL-00036" />
++      <option name="project" value="LOCAL" />
++      <updated>1718735104988</updated>
++    </task>
++    <task id="LOCAL-00037" summary="VLA fuction">
++      <option name="closed" value="true" />
++      <created>1718735127666</created>
++      <option name="number" value="00037" />
++      <option name="presentableId" value="LOCAL-00037" />
++      <option name="project" value="LOCAL" />
++      <updated>1718735127666</updated>
++    </task>
++    <task id="LOCAL-00038" summary="function">
++      <option name="closed" value="true" />
++      <created>1718735144242</created>
++      <option name="number" value="00038" />
++      <option name="presentableId" value="LOCAL-00038" />
++      <option name="project" value="LOCAL" />
++      <updated>1718735144242</updated>
++    </task>
++    <task id="LOCAL-00039" summary="Nested function">
++      <option name="closed" value="true" />
++      <created>1718889788392</created>
++      <option name="number" value="00039" />
++      <option name="presentableId" value="LOCAL-00039" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889788392</updated>
++    </task>
++    <task id="LOCAL-00040" summary="Global function">
++      <option name="closed" value="true" />
++      <created>1718889814539</created>
++      <option name="number" value="00040" />
++      <option name="presentableId" value="LOCAL-00040" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889814539</updated>
++    </task>
++    <task id="LOCAL-00041" summary="Nested function">
++      <option name="closed" value="true" />
++      <created>1718889840762</created>
++      <option name="number" value="00041" />
++      <option name="presentableId" value="LOCAL-00041" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889840762</updated>
++    </task>
++    <task id="LOCAL-00042" summary="List">
++      <option name="closed" value="true" />
++      <created>1718889860825</created>
++      <option name="number" value="00042" />
++      <option name="presentableId" value="LOCAL-00042" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889860825</updated>
++    </task>
++    <task id="LOCAL-00043" summary="Lambda Expression">
++      <option name="closed" value="true" />
++      <created>1718889883070</created>
++      <option name="number" value="00043" />
++      <option name="presentableId" value="LOCAL-00043" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889883070</updated>
++    </task>
++    <task id="LOCAL-00044" summary="Lambda Expression">
++      <option name="closed" value="true" />
++      <created>1718889895623</created>
++      <option name="number" value="00044" />
++      <option name="presentableId" value="LOCAL-00044" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889895623</updated>
++    </task>
++    <task id="LOCAL-00045" summary="Lambda Expression">
++      <option name="closed" value="true" />
++      <created>1718889909791</created>
++      <option name="number" value="00045" />
++      <option name="presentableId" value="LOCAL-00045" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889909791</updated>
++    </task>
++    <task id="LOCAL-00046" summary="Lambda Expression">
++      <option name="closed" value="true" />
++      <created>1718889921838</created>
++      <option name="number" value="00046" />
++      <option name="presentableId" value="LOCAL-00046" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889921838</updated>
++    </task>
++    <task id="LOCAL-00047" summary="Lambda Expression">
++      <option name="closed" value="true" />
++      <created>1718889942812</created>
++      <option name="number" value="00047" />
++      <option name="presentableId" value="LOCAL-00047" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889942812</updated>
++    </task>
++    <task id="LOCAL-00048" summary="List">
++      <option name="closed" value="true" />
++      <created>1718889962577</created>
++      <option name="number" value="00048" />
++      <option name="presentableId" value="LOCAL-00048" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889962577</updated>
++    </task>
++    <task id="LOCAL-00049" summary="List">
++      <option name="closed" value="true" />
++      <created>1718889981422</created>
++      <option name="number" value="00049" />
++      <option name="presentableId" value="LOCAL-00049" />
++      <option name="project" value="LOCAL" />
++      <updated>1718889981422</updated>
++    </task>
++    <task id="LOCAL-00050" summary="Map">
++      <option name="closed" value="true" />
++      <created>1718890034759</created>
++      <option name="number" value="00050" />
++      <option name="presentableId" value="LOCAL-00050" />
++      <option name="project" value="LOCAL" />
++      <updated>1718890034759</updated>
++    </task>
++    <task id="LOCAL-00051" summary="Tuple">
++      <option name="closed" value="true" />
++      <created>1718890050702</created>
++      <option name="number" value="00051" />
++      <option name="presentableId" value="LOCAL-00051" />
++      <option name="project" value="LOCAL" />
++      <updated>1718890050702</updated>
++    </task>
++    <task id="LOCAL-00052" summary="Map">
++      <option name="closed" value="true" />
++      <created>1718890079056</created>
++      <option name="number" value="00052" />
++      <option name="presentableId" value="LOCAL-00052" />
++      <option name="project" value="LOCAL" />
++      <updated>1718890079056</updated>
++    </task>
++    <task id="LOCAL-00053" summary="last commit">
++      <option name="closed" value="true" />
++      <created>1718890133019</created>
++      <option name="number" value="00053" />
++      <option name="presentableId" value="LOCAL-00053" />
++      <option name="project" value="LOCAL" />
++      <updated>1718890133019</updated>
++    </task>
++    <task id="LOCAL-00054" summary="last commit">
++      <option name="closed" value="true" />
++      <created>1718890301345</created>
++      <option name="number" value="00054" />
++      <option name="presentableId" value="LOCAL-00054" />
++      <option name="project" value="LOCAL" />
++      <updated>1718890301345</updated>
++    </task>
++    <task id="LOCAL-00055" summary="last commit">
++      <option name="closed" value="true" />
++      <created>1718890553978</created>
++      <option name="number" value="00055" />
++      <option name="presentableId" value="LOCAL-00055" />
++      <option name="project" value="LOCAL" />
++      <updated>1718890553978</updated>
++    </task>
++    <task id="LOCAL-00056" summary="Dictionary and Decorator">
++      <option name="closed" value="true" />
++      <created>1719039648023</created>
++      <option name="number" value="00056" />
++      <option name="presentableId" value="LOCAL-00056" />
++      <option name="project" value="LOCAL" />
++      <updated>1719039648023</updated>
++    </task>
++    <task id="LOCAL-00057" summary="Filter and Recurrsive Function">
++      <option name="closed" value="true" />
++      <created>1719248025183</created>
++      <option name="number" value="00057" />
++      <option name="presentableId" value="LOCAL-00057" />
++      <option name="project" value="LOCAL" />
++      <updated>1719248025183</updated>
++    </task>
++    <task id="LOCAL-00058" summary="Assignment">
++      <option name="closed" value="true" />
++      <created>1719298582868</created>
++      <option name="number" value="00058" />
++      <option name="presentableId" value="LOCAL-00058" />
++      <option name="project" value="LOCAL" />
++      <updated>1719298582868</updated>
++    </task>
++    <task id="LOCAL-00059" summary="Assignment">
++      <option name="closed" value="true" />
++      <created>1719384524261</created>
++      <option name="number" value="00059" />
++      <option name="presentableId" value="LOCAL-00059" />
++      <option name="project" value="LOCAL" />
++      <updated>1719384524261</updated>
++    </task>
++    <option name="localTasksCounter" value="60" />
+     <servers />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="format string" />
++    <MESSAGE value="string" />
++    <MESSAGE value="None Type" />
++    <MESSAGE value="Escape Sequence" />
++    <MESSAGE value="Functions" />
++    <MESSAGE value="VLA Functions" />
++    <MESSAGE value="Leap year" />
++    <MESSAGE value="Triangle classifier" />
++    <MESSAGE value="Fibonacci" />
++    <MESSAGE value="For Loop" />
++    <MESSAGE value="Match case" />
++    <MESSAGE value="Function" />
++    <MESSAGE value="Dict" />
++    <MESSAGE value="VLA fuction" />
++    <MESSAGE value="function" />
++    <MESSAGE value="Global function" />
++    <MESSAGE value="Nested function" />
++    <MESSAGE value="Lambda Expression" />
++    <MESSAGE value="List" />
++    <MESSAGE value="Tuple" />
++    <MESSAGE value="Map" />
++    <MESSAGE value="last commit" />
++    <MESSAGE value="Dictionary and Decorator" />
++    <MESSAGE value="Filter and Recurrsive Function" />
++    <MESSAGE value="Assignment" />
++    <option name="LAST_COMMIT_MESSAGE" value="Assignment" />
++  </component>
+ </project>
+\ No newline at end of file
