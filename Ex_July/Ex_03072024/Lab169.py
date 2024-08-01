@@ -19,7 +19,7 @@
 # lines = file_object.readlines() for all lines in a list.
 # # Close the file
 
-file = open("/Users/promode/PycharmProjects/Py3xATBLearning/ex02_July/01072024/TestData2.txt", 'r')
+file = open("C:\\Users\\Dell\\PycharmProjects\\Py3xATBLearning\\Ex_July\\Ex_01072024\\TestData2.txt", 'r')
 content = file.read()
 print(content)
 file.close()
