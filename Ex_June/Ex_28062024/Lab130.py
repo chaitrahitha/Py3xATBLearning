@@ -16,6 +16,7 @@ class BankAccount:
         print("Your Balance is ", self.balance)
 
 jp_chase = BankAccount()
+# jp_chase.public_fn()
 print(jp_chase.balance)
 jp_chase.deposit(101)
 jp_chase.show_balance()

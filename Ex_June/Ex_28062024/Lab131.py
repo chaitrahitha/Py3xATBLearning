@@ -6,11 +6,11 @@ class BankAccount:
     def public_fn(self):
         print(self.__private_var)
 
-    def deposit(self, balance):
-        self.balance += balance
+    def deposit(self, amount):
+        self.balance += amount
 
-    def __withdraw(self, balance):
-        self.balance -= balance
+    def __withdraw(self, amount):
+        self.balance -= amount
 
     def __show_balance(self):
         print("Your Balance is ", self.balance)
@@ -21,9 +21,9 @@ class BankAccount:
         else:
             print("Not Allowed")
 
-    def if_you_are_auth_user(self, auth, balance):
+    def if_you_are_auth_user(self, auth, amount1):
         if auth:
-            self.__withdraw(balance=balance)
+            self.__withdraw(amount=amount1)
         else:
             print("Not Allowed")
 
@@ -40,7 +40,7 @@ else:
 secret_pass = input("Enter your PIN to Withdraw")
 your_amount = int(input("Enter your amount to Withdraw"))
 if secret_pass == "1234":
-    jp_chase.if_you_are_auth_user(True, balance=your_amount)
+    jp_chase.if_you_are_auth_user(True, amount1=your_amount)
     jp_chase.if_you_are_auth(True)
 else:
     jp_chase.if_you_are_auth_user(False)

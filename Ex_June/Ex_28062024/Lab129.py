@@ -9,6 +9,7 @@ class VWOLogin:
     def login_confirm(self):
         if self.__email == "abc@gmail.com" and self.__password == 123:
             print("Allowed")
+            print(self.__email, self.__password, self.__name)
         else:
             print("Not Allowed")
 

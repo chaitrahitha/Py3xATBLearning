@@ -11,7 +11,7 @@ class Car:
 
     def printName(self):
         self.__private_method()
-        if self.__private_var == "123":
+        if self.__private_var == "@123":
             print("Hi, 123")
         print("I am allowed public")
 
@@ -20,3 +20,6 @@ class Car:
 alto = Car()
 alto.printName()
 # alto.__private_var
+# alto.public_var = "asdf"
+print(alto.public_var)
+print(alto.)
